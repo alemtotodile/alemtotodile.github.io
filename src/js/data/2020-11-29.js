@@ -601,7 +601,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Nonexisty",
     img: "n6CuS5V.png",
     opts: {
-      stage: ["rc"]
+      stage: ["s3", "rc"]
     }
   },
   {
@@ -726,7 +726,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Purple Face",
     img: "gUQTT9U.png",
     opts: {
-      stage: ["ex", "s4b"]
+      stage: ["ex", "host"]
     }
   },
   {
@@ -1040,56 +1040,56 @@ dataSet[dataSetVersion].characterData = [
     name: "Announcer",
     img: "jFsT02i.png",
     opts: {
-      stage: ["host", "s1", "s4b", "sb"]
+      stage: ["host", "sb"]
     }
   },
   {
     name: "Flower Speaker Box",
     img: "Mlz0zEz.png",
     opts: {
-      stage: ["host", "s1", "sb"]
+      stage: ["host", "sb"]
     }
   },
   {
     name: "Firey Speaker Box",
     img: "o9Sb8Rm.png",
     opts: {
-      stage: ["host", "s1", "s2", "sb"]
+      stage: ["host", "sb"]
     }
   },
   {
     name: "Puffball Speaker Box",
     img: "aCjSlbG.png",
     opts: {
-      stage: ["host", "s2", "sb"]
+      stage: ["host", "sb"]
     }
   },
   {
     name: "HelloKevin",
     img: "u8jfaSC.png",
     opts: {
-      stage: ["host"]
+      stage: ["pm"]
     }
   },
   {
     name: "Four",
     img: "SVYU28o.png",
     opts: {
-      stage: ["host", "s4", "s4b", "num"]
+      stage: ["host", "num"]
     }
   },
   {
     name: "X",
     img: "Lhn6Rzj.png",
     opts: {
-      stage: ["host", "s4", "s4b", "num"]
+      stage: ["host", "num"]
     }
   },
   {
     name: "Two",
     img: "YLDd9zS.png",
     opts: {
-      stage: ["host", "s5", "num"]
+      stage: ["host", "num"]
     }
   },
   
